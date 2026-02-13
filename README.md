@@ -7,10 +7,10 @@ Credit Card Transaction Analysis Dashboard
 Analyze credit card transaction data to track revenue, spending patterns, and customer segmentation for financial performance optimization.
 
 ## 📁 Project Links & Tools
-- **📊 Dashboard File**: <a href="link-to-your-dashboard.pbix" target="_blank">Download Power BI Dashboard</a>
-- **📂 Dataset**: <a href="link-to-your-dataset.csv" target="_blank">View/Download Dataset</a>
-- **🖼️ Dashboard Preview**: <a href="creditcard.png" target="_blank">View Dashboard Screenshot</a>
-- **🛠️ Tools Used**: Power BI, Excel, GitHub
+- **📊 Dashboard File**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Credit%20Card%20Report.pbix" target="_blank">Download Power BI Dashboard</a>
+- **📂 Dataset**: <a href="[link-to-your-dataset.csv](https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/credit_card.csv)" target="_blank">View/Download Dataset</a>
+- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/creditcard-Transaction-Report.png" target="_blank">View Dashboard Screenshot</a>
+- **🛠️ Tools Used**: Power BI, Excel, GitHub, SQL
 
 ---
 
@@ -86,10 +86,10 @@ Credit Card Customer Analysis Dashboard
 Analyze credit card customer demographics, spending behavior, and regional performance to identify key customer segments and growth opportunities.
 
 ## 📁 Project Links & Tools
-- **📊 Dashboard File**: <a href="link-to-your-dashboard.pbix" target="_blank">Download Power BI Dashboard</a>
-- **📂 Dataset**: <a href="link-to-your-dataset.csv" target="_blank">View/Download Dataset</a>
-- **🖼️ Dashboard Preview**: <a href="Screenshot%20(1070).png" target="_blank">View Dashboard Screenshot</a>
-- **🛠️ Tools Used**: Power BI, Excel, GitHub
+- **📊 Dashboard File**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Credit%20Card%20Report.pbix" target="_blank">Download Power BI Dashboard</a>
+- **📂 Dataset**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/customer.csv" target="_blank">View/Download Dataset</a>
+- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Creditcard-Customer-Report.png" target="_blank">View Dashboard Screenshot</a>
+- **🛠️ Tools Used**: Power BI, Excel, GitHub, SQL
 
 ---
 
