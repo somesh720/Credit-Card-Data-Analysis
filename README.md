@@ -8,8 +8,8 @@ Analyze credit card transaction data to track revenue, spending patterns, and cu
 
 ## 📁 Project Links & Tools
 - **📊 Dashboard File**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Credit%20Card%20Report.pbix" target="_blank">Download Power BI Dashboard</a>
-- **📂 Dataset**: <a href="[link-to-your-dataset.csv](https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/credit_card.csv)" target="_blank">View/Download Dataset</a>
-- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/creditcard-Transaction-Report.png" target="_blank">View Dashboard Screenshot</a>
+- **📂 Dataset**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/credit_card.csv)" target="_blank">View or Download Dataset</a>
+- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/creditcard-Transaction-Report.png" target="_blank">View Dashboard </a>
 - **🛠️ Tools Used**: Power BI, Excel, GitHub, SQL
 
 ---
@@ -87,8 +87,8 @@ Analyze credit card customer demographics, spending behavior, and regional perfo
 
 ## 📁 Project Links & Tools
 - **📊 Dashboard File**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Credit%20Card%20Report.pbix" target="_blank">Download Power BI Dashboard</a>
-- **📂 Dataset**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/customer.csv" target="_blank">View/Download Dataset</a>
-- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Creditcard-Customer-Report.png" target="_blank">View Dashboard Screenshot</a>
+- **📂 Dataset**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/customer.csv" target="_blank">View or Download Dataset</a>
+- **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Credit-Card-Data-Analysis/blob/main/Creditcard-Customer-Report.png" target="_blank">View Dashboard</a>
 - **🛠️ Tools Used**: Power BI, Excel, GitHub, SQL
 
 ---
